@@ -23,7 +23,7 @@ public abstract class Biz<T,V> {
 		try{
 			Properties prop = new Properties();
 			
-			prop.load(new FileInputStream("C:\\Users\\student\\git\\maki07051\\dbprop.txt"));
+			prop.load(new FileInputStream("C:\\skagh-lee-web\\mvc1\\dbprop.txt"));
 		
 			user = prop.getProperty("dbuser");
 			password = prop.getProperty("dbpassword");

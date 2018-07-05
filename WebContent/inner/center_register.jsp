@@ -27,11 +27,11 @@ $(document).ready(function(){
             <div class="form-row">
               <div class="col-md-6">
                 <label for="exampleInputName">ID</label>
-                <input name="id" class="form-control" id="exampleInputName" type="text" aria-describedby="nameHelp" placeholder="Enter first name">
+                <input name="id" class="form-control" id="exampleInputName" type="text" aria-describedby="nameHelp" placeholder="Enter ID">
               </div>
               <div class="col-md-6">
                 <label for="exampleInputLastName">Name</label>
-                <input name="name" class="form-control" id="exampleInputLastName" type="text" aria-describedby="nameHelp" placeholder="Enter last name">
+                <input name="name" class="form-control" id="exampleInputLastName" type="text" aria-describedby="nameHelp" placeholder="Enter Name">
               </div>
             </div>
           </div>

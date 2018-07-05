@@ -2,4 +2,17 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>    
 
 
-<h1>Some Thingy is gotta be Wrong as shit</h1>
+
+ <div class="content-wrapper">
+ <div class="container">
+    <div class="card card-register mx-auto mt-5">
+      <div class="card-header">Warning..</div>
+      <div class="card-body">
+        
+        <div class="text-center">
+        	<h1>Something went HORRIBLY WRONG AS SHIT</h1>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>

@@ -4,28 +4,24 @@
 <meta charset="EUC-KR">
 <title>Insert title here</title>
 <style>
-#w {
+.div0378{
 	width: 250px;
-	height: 700px;
-	margin-left: 300px;
 	float: left;
-	color: white;
-	border: 1px solid white;
+	position: relative;
+	border: 3px solid gray;
+	background : rgb(225,225,225)
+}
+
+#w {
 }
 #f {
-	width: 250px;
-	height: 700px;
-	position: relative;
-	float: left;
-	color: white;
-	border: 1px solid white;
 }
 #m {
-	width: 250px;
-	height: 700px;
-	position: relative;
+	width:400px;
+	height:400px;
+}
+#btn0321{
 	float: left;
-	border: 1px solid white;
 }
 </style>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.js" type="text/javascript" charset="utf-8"></script>
@@ -100,11 +96,11 @@ $(document).ready(function(){
 	});
 });
 </script>
-</head>
-<body>
-<button>Weather</button>
-<div id="w"></div>			<!--현재날씨  -->
-<div id="f"></div>			<!-- 주간날씨 -->
-<div id="m"></div>			<!-- 맵 -->
-</body>
-</html>
+ <div class="content-wrapper">
+ <div class="container">
+<div class="div0378" id="w"></div>			<!--현재날씨  -->
+<div class="div0378" id="f"></div>			<!-- 주간날씨 -->
+<div class="div0378" id="m"></div>			<!-- 맵 -->
+<button id="btn0321">Weather</button>
+</div>
+</div>
