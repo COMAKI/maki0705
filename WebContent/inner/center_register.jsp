@@ -2,34 +2,44 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>    
 
 
+<script>
+
+$(document).ready(function(){
+	$('#regbtn2864').click(function(){		
+		$('#regform2864').attr('method','post');
+		$('#regform2864').attr('action','register.mc');
+		$('#regform2864').submit();	
+		console.log('register form is being sent');
+	});	
+});
+	
+
+</script>
+
 
  <div class="content-wrapper">
  <div class="container">
     <div class="card card-register mx-auto mt-5">
       <div class="card-header">Register an Account</div>
       <div class="card-body">
-        <form>
+        <form id="regform2864">
           <div class="form-group">
             <div class="form-row">
               <div class="col-md-6">
-                <label for="exampleInputName">First name</label>
-                <input class="form-control" id="exampleInputName" type="text" aria-describedby="nameHelp" placeholder="Enter first name">
+                <label for="exampleInputName">ID</label>
+                <input name="id" class="form-control" id="exampleInputName" type="text" aria-describedby="nameHelp" placeholder="Enter first name">
               </div>
               <div class="col-md-6">
-                <label for="exampleInputLastName">Last name</label>
-                <input class="form-control" id="exampleInputLastName" type="text" aria-describedby="nameHelp" placeholder="Enter last name">
+                <label for="exampleInputLastName">Name</label>
+                <input name="name" class="form-control" id="exampleInputLastName" type="text" aria-describedby="nameHelp" placeholder="Enter last name">
               </div>
             </div>
-          </div>
-          <div class="form-group">
-            <label for="exampleInputEmail1">Email address</label>
-            <input class="form-control" id="exampleInputEmail1" type="email" aria-describedby="emailHelp" placeholder="Enter email">
           </div>
           <div class="form-group">
             <div class="form-row">
               <div class="col-md-6">
                 <label for="exampleInputPassword1">Password</label>
-                <input class="form-control" id="exampleInputPassword1" type="password" placeholder="Password">
+                <input name="pwd" class="form-control" id="exampleInputPassword1" type="password" placeholder="Password">
               </div>
               <div class="col-md-6">
                 <label for="exampleConfirmPassword">Confirm password</label>
@@ -37,7 +47,7 @@
               </div>
             </div>
           </div>
-          <a class="btn btn-primary btn-block" href="login.html">Register</a>
+          <input id="regbtn2864" class="btn btn-primary btn-block" type="button" value="register">
         </form>
         <div class="text-center">
           <a class="d-block small mt-3" href="login.html">Login Page</a>

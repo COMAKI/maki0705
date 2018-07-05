@@ -85,10 +85,17 @@ public class DispatcherServlet extends HttpServlet {
 		}else if(view.equals("useradd")) {
 			request.setAttribute("center", "user/add");
 			request.setAttribute("nav", Navi.useradd);
-		}else if(view.equals("productadd")) {
-			request.setAttribute("center", "product/add");
-			request.setAttribute("nav", Navi.productadd);
-		}else {
+		}else if(view.equals("productupdate")) {
+			try {	
+				Product product = productbiz.get(Integer.parseInt(request.getParameter("id")));
+				request.setAttribute("detailp",product);
+				request.setAttribute("center", "/inner/center_productupdate");
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				request.setAttribute("center","/inner/center_somethingwrong");		
+				e.printStackTrace();
+			}
+		}else{
 			request.setAttribute("center", "/inner/center_"+view);
 		}
 		

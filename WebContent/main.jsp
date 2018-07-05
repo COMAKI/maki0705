@@ -226,6 +226,10 @@
         	</c:when>
         	<c:otherwise>
 		        <li class="nav-item">
+		          <a class="nav-link" href="main.mc?view=register">
+    		        <i class="fa fa-fw fa-register"></i>Register</a>        		
+        		</li>
+		        <li class="nav-item">
 		          <a class="nav-link" href="main.mc?view=login">
     		        <i class="fa fa-fw fa-sign-in"></i>Login</a>        		
         		</li>

@@ -9,7 +9,6 @@
 </style>
 
 
-
  <div class="content-wrapper">
  <div class="container">
     <div class="card card-register mx-auto mt-5">
