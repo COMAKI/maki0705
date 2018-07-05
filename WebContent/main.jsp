@@ -59,7 +59,7 @@
 	              <a href="main.mc?view=product_add">Product Add</a>
 	            </li>
 	            <li>
-	              <a href="main.mc?view=center_all">User Add</a>
+	              <a href="main.mc?view=register">User Add</a>
 	            </li>
 	          </ul>
 	        </li>
@@ -71,16 +71,10 @@
           </a>
           <ul class="sidenav-second-level collapse" id="collapseExamplePages">
             <li>
-              <a href="main.mc?view=login">Login Page</a>
+              <a href="chart.mc">Charts</a>
             </li>
             <li>
-              <a href="main.mc?view=register">Registration Page</a>
-            </li>
-            <li>
-              <a href="forgot-password.html">Forgot Password Page</a>
-            </li>
-            <li>
-              <a href="blank.html">Blank Page</a>
+              <a href="weather.mc">Weather</a>
             </li>
           </ul>
         </li>
