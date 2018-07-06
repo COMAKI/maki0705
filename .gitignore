@@ -3,3 +3,6 @@
 .classpath
 .project
 build/
+*.iml
+*.log
+src/dbprop.txt

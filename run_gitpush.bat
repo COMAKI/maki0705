@@ -1,6 +1,7 @@
 @echo off
 echo ^>^> Added modified files 
-git add ./src/*
+git add ./src/com
+git add ./src/web
 git add ./WebContent/*
 
 echo ^>^> Commit added files
