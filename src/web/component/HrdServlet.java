@@ -47,7 +47,7 @@ public class HrdServlet extends HttpServlet {
 
 	protected void service(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, IOException {
-		String next = "main.jsp";
+		String next = "main.mc";
 		String cmd = request.getParameter("cmd");
 		String token = "E8jnarAHnqQyN21mUParp5SRITSDPUSS";
 		int pageNum = 1;
@@ -142,9 +142,11 @@ public class HrdServlet extends HttpServlet {
 			try {
 				list = biz.get();
 				request.setAttribute("hrdlist", list);
-				request.setAttribute("view", "hrd_list");
+				next += "?view=hrd_list";
 			} catch (Exception e) {
 				e.printStackTrace();
+				request.setAttribute("hrdlist", null);
+				next += "?view=hrd_list";
 			}
 		}
 

@@ -88,7 +88,7 @@
               <a href="hrd.mc?cmd=list">HRD list</a>
             </li>
             <li>
-              <a href="#">Second Level Item</a>
+              <a href="#">ddd </a>
             </li>
             <li>
               <a href="#">Second Level Item</a>
