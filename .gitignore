@@ -5,5 +5,5 @@
 build/
 *.iml
 *.log
-src/dbprop.txt
+src/*.txt
 /bin/
