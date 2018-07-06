@@ -1,0 +1,2712 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<HRDNet>
+	<pageNum>2</pageNum>
+	<pageSize>100</pageSize>
+	<scn_cnt>20804</scn_cnt>
+	<srchList>
+		<scn_list>
+			<address>충청남도 천안시 서북구 쌍용대로 194 (성정동,국민은행 5층)</address>
+			<contents />
+			<courseMan>3997820</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200701384</instCd>
+			<ncsCd>14030104</ncsCd>
+			<realMan>3997820</realMan>
+			<regCourseMan>3</regCourseMan>
+			<subTitle>(주)혜인산업교육원 충남직업전문학교</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000170015&amp;tracseTme=1&amp;trainstCstmrId=500020026723
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>041-592-2100</telNo>
+			<title>(과정평가형)전산응용건축제도기능사</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000170015&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-11-23</traEndDate>
+			<traStartDate>2018-07-12</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000170015</trprId>
+			<yardMan>25</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>충청남도 천안시 동남구 성황8길 13 동양빌딩</address>
+			<contents />
+			<courseMan>3765600</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200701822</instCd>
+			<ncsCd>14030104</ncsCd>
+			<realMan>3765600</realMan>
+			<regCourseMan>0</regCourseMan>
+			<subTitle>동양직업전문학교</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000170309&amp;tracseTme=1&amp;trainstCstmrId=500020057828
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>041-555-7695</telNo>
+			<title>(과정평가형)전산응용건축제도기능사</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000170309&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-11-30</traEndDate>
+			<traStartDate>2018-08-01</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000170309</trprId>
+			<yardMan>20</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>서울특별시 노원구 동일로 1351 2층(상계동)</address>
+			<contents />
+			<courseMan>3765600</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200300247</instCd>
+			<ncsCd>14030104</ncsCd>
+			<realMan>3765600</realMan>
+			<regCourseMan>0</regCourseMan>
+			<subTitle>은곡직업전문학교</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000169808&amp;tracseTme=1&amp;trainstCstmrId=500020016734
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>02-952-1163</telNo>
+			<title>(과정평가형)전산응용건축제도기능사 과정</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000169808&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-11-15</traEndDate>
+			<traStartDate>2018-07-10</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000169808</trprId>
+			<yardMan>20</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>충청남도 천안시 서북구 쌍용대로 194 (성정동,국민은행 5층)</address>
+			<contents />
+			<courseMan>4078500</courseMan>
+			<grade />
+			<imgGubun>C1_02</imgGubun>
+			<instCd>200701384</instCd>
+			<ncsCd>15010201</ncsCd>
+			<realMan>4078500</realMan>
+			<regCourseMan>10</regCourseMan>
+			<subTitle>(주)혜인산업교육원 충남직업전문학교</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000169826&amp;tracseTme=1&amp;trainstCstmrId=500020026723
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>041-592-2100</telNo>
+			<title>(과정평가형)전산응용기계제도기능사</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system3.gif"
+				alt="국가기간전략훈련" title="국가기간전략훈련"&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000169826&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-09-21</traEndDate>
+			<traStartDate>2018-04-17</traStartDate>
+			<trainTarget>실업자(국기)</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000169826</trprId>
+			<yardMan>25</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>경상북도 경산시 경안로 216 (중방동)</address>
+			<contents />
+			<courseMan>4214450</courseMan>
+			<grade />
+			<imgGubun>C1_02</imgGubun>
+			<instCd>201601293</instCd>
+			<ncsCd>15010201</ncsCd>
+			<realMan>4214450</realMan>
+			<regCourseMan>0</regCourseMan>
+			<subTitle>국제직업능력개발교육원 주식회사</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000169637&amp;tracseTme=1&amp;trainstCstmrId=500020043385
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>053-811-9217</telNo>
+			<title>(과정평가형)전산응용기계제도기능사</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system3.gif"
+				alt="국가기간전략훈련" title="국가기간전략훈련"&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000169637&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2019-01-31</traEndDate>
+			<traStartDate>2018-07-19</traStartDate>
+			<trainTarget>실업자(국기)</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000169637</trprId>
+			<yardMan>25</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>충청남도 천안시 동남구 성황8길 13 동양빌딩</address>
+			<contents />
+			<courseMan>3851400</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200701822</instCd>
+			<ncsCd>02030201</ncsCd>
+			<realMan>3851400</realMan>
+			<regCourseMan>0</regCourseMan>
+			<subTitle>동양직업전문학교</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000170311&amp;tracseTme=1&amp;trainstCstmrId=500020057828
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>041-555-7695</telNo>
+			<title>(과정평가형)전산회계운용사3급</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000170311&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-11-30</traEndDate>
+			<traStartDate>2018-08-01</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000170311</trprId>
+			<yardMan>20</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>서울특별시 종로구 수표로 96 2층, 5층 그린컴퓨터아트학원</address>
+			<contents />
+			<courseMan>3580800</courseMan>
+			<grade />
+			<imgGubun>C1_02</imgGubun>
+			<instCd>200300611</instCd>
+			<ncsCd>22010102</ncsCd>
+			<realMan>3580800</realMan>
+			<regCourseMan>0</regCourseMan>
+			<subTitle>그린컴퓨터아트학원</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000170208&amp;tracseTme=1&amp;trainstCstmrId=500020062235
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>02-722-2111</telNo>
+			<title>(과정평가형)전자출판기능사</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system3.gif"
+				alt="국가기간전략훈련" title="국가기간전략훈련"&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000170208&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-11-16</traEndDate>
+			<traStartDate>2018-07-23</traStartDate>
+			<trainTarget>실업자(국기)</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000170208</trprId>
+			<yardMan>20</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>경상북도 경산시 경안로 216 (중방동)</address>
+			<contents />
+			<courseMan>4733280</courseMan>
+			<grade />
+			<imgGubun>C1_02</imgGubun>
+			<instCd>201601293</instCd>
+			<ncsCd>20010202</ncsCd>
+			<realMan>4733280</realMan>
+			<regCourseMan>0</regCourseMan>
+			<subTitle>국제직업능력개발교육원 주식회사</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000170023&amp;tracseTme=1&amp;trainstCstmrId=500020043385
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>053-811-9217</telNo>
+			<title>(과정평가형)정보처리기능사</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system3.gif"
+				alt="국가기간전략훈련" title="국가기간전략훈련"&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000170023&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2019-01-17</traEndDate>
+			<traStartDate>2018-07-19</traStartDate>
+			<trainTarget>실업자(국기)</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000170023</trprId>
+			<yardMan>25</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>경상북도 경산시 경안로 216 (중방동)</address>
+			<contents />
+			<courseMan>5522160</courseMan>
+			<grade />
+			<imgGubun>C1_02</imgGubun>
+			<instCd>201601293</instCd>
+			<ncsCd>20010202</ncsCd>
+			<realMan>5522160</realMan>
+			<regCourseMan>14</regCourseMan>
+			<subTitle>국제직업능력개발교육원 주식회사</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000170025&amp;tracseTme=1&amp;trainstCstmrId=500020043385
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>053-811-9217</telNo>
+			<title>(과정평가형)정보처리산업기사</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system3.gif"
+				alt="국가기간전략훈련" title="국가기간전략훈련"&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000170025&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-09-04</traEndDate>
+			<traStartDate>2018-03-09</traStartDate>
+			<trainTarget>실업자(국기)</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000170025</trprId>
+			<yardMan>25</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>경기도 김포시 김포대로 841 (사우동 제우스프라자 3,5층, 김포시청앞 지하차도 4거리 신한은행옆)
+			</address>
+			<contents />
+			<courseMan>4732000</courseMan>
+			<grade />
+			<imgGubun>C1_02</imgGubun>
+			<instCd>200902143</instCd>
+			<ncsCd>14050102</ncsCd>
+			<realMan>4732000</realMan>
+			<regCourseMan>6</regCourseMan>
+			<subTitle>예일직업능력개발학원</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000170028&amp;tracseTme=1&amp;trainstCstmrId=500020018416
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>031-985-4100</telNo>
+			<title>(과정평가형)조경기능사</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system3.gif"
+				alt="국가기간전략훈련" title="국가기간전략훈련"&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000170028&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-11-05</traEndDate>
+			<traStartDate>2018-04-23</traStartDate>
+			<trainTarget>실업자(국기)</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000170028</trprId>
+			<yardMan>20</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>대구광역시 서구 달구벌대로 1669 (내당동) 4층</address>
+			<contents />
+			<courseMan>4664400</courseMan>
+			<grade />
+			<imgGubun>C1_02</imgGubun>
+			<instCd>201301292</instCd>
+			<ncsCd>14050102</ncsCd>
+			<realMan>4664400</realMan>
+			<regCourseMan>13</regCourseMan>
+			<subTitle>한결직업전문학교</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000170047&amp;tracseTme=1&amp;trainstCstmrId=500020029646
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>053-263-3311</telNo>
+			<title>(과정평가형)조경기능사 자격취득</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system3.gif"
+				alt="국가기간전략훈련" title="국가기간전략훈련"&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000170047&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-10-12</traEndDate>
+			<traStartDate>2018-04-16</traStartDate>
+			<trainTarget>실업자(국기)</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000170047</trprId>
+			<yardMan>20</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>대구광역시 서구 달구벌대로 1669 (내당동) 4층</address>
+			<contents />
+			<courseMan>6658600</courseMan>
+			<grade />
+			<imgGubun>C1_02</imgGubun>
+			<instCd>201301292</instCd>
+			<ncsCd>14050102</ncsCd>
+			<realMan>6658600</realMan>
+			<regCourseMan>6</regCourseMan>
+			<subTitle>한결직업전문학교</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000170052&amp;tracseTme=1&amp;trainstCstmrId=500020029646
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>053-263-3311</telNo>
+			<title>(과정평가형)조경기사 자격취득</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system3.gif"
+				alt="국가기간전략훈련" title="국가기간전략훈련"&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000170052&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2019-01-25</traEndDate>
+			<traStartDate>2018-05-14</traStartDate>
+			<trainTarget>실업자(국기)</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000170052</trprId>
+			<yardMan>20</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>서울특별시 구로구 디지털로32길 30 511~512호</address>
+			<contents />
+			<courseMan>3949180</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200700119</instCd>
+			<ncsCd>07020101</ncsCd>
+			<realMan>3949180</realMan>
+			<regCourseMan>17</regCourseMan>
+			<subTitle>서울산업정보교육원</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000170410&amp;tracseTme=1&amp;trainstCstmrId=500020021928
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>02-803-3333</telNo>
+			<title>(과정평가형)직업상담사2급 자격증 취득과정</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000170410&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-08-02</traEndDate>
+			<traStartDate>2018-03-06</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000170410</trprId>
+			<yardMan>20</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>서울특별시 종로구 수표로 96 2층, 5층 그린컴퓨터아트학원</address>
+			<contents />
+			<courseMan>3986750</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200300611</instCd>
+			<ncsCd>08030208</ncsCd>
+			<realMan>3986750</realMan>
+			<regCourseMan>11</regCourseMan>
+			<subTitle>그린컴퓨터아트학원</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000169624&amp;tracseTme=1&amp;trainstCstmrId=500020062235
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>02-722-2111</telNo>
+			<title>(과정평가형)컴퓨터그래픽스운용기능사</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000169624&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-06-25</traEndDate>
+			<traStartDate>2018-02-21</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000169624</trprId>
+			<yardMan>20</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>충청남도 천안시 동남구 성황8길 13 동양빌딩</address>
+			<contents />
+			<courseMan>3708600</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200701822</instCd>
+			<ncsCd>08030208</ncsCd>
+			<realMan>3708600</realMan>
+			<regCourseMan>0</regCourseMan>
+			<subTitle>동양직업전문학교</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000170308&amp;tracseTme=1&amp;trainstCstmrId=500020057828
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>041-555-7695</telNo>
+			<title>(과정평가형)컴퓨터그래픽스운용기능사</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000170308&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-11-30</traEndDate>
+			<traStartDate>2018-08-01</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000170308</trprId>
+			<yardMan>20</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>광주광역시 서구 죽봉대로 37 6층</address>
+			<contents />
+			<courseMan>3708600</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200902253</instCd>
+			<ncsCd>08030208</ncsCd>
+			<realMan>3708600</realMan>
+			<regCourseMan>0</regCourseMan>
+			<subTitle>NEW국제직업전문학교</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000169576&amp;tracseTme=1&amp;trainstCstmrId=500020015671
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>062-352-0114</telNo>
+			<title>(과정평가형)컴퓨터그래픽스운용기능사 취득과정</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000169576&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2019-03-07</traEndDate>
+			<traStartDate>2018-10-10</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000169576</trprId>
+			<yardMan>30</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>경기도 수원시 장안구 팔달로 269 북문빌딩 3층 (신관 : 수원시 장안구 정조로 948 동명빌딩 2층)
+			</address>
+			<contents />
+			<courseMan>4200000</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200601458</instCd>
+			<ncsCd>13010101</ncsCd>
+			<realMan>4200000</realMan>
+			<regCourseMan>20</regCourseMan>
+			<subTitle>전통외식조리직업전문학교</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000170229&amp;tracseTme=1&amp;trainstCstmrId=500020043923
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>031-258-2141</telNo>
+			<title>(과정평가형)한식조리기능사</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000170229&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-08-24</traEndDate>
+			<traStartDate>2018-03-21</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000170229</trprId>
+			<yardMan>20</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>강원도 춘천시 춘천로 209</address>
+			<contents />
+			<courseMan>4001920</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200902190</instCd>
+			<ncsCd>12010101</ncsCd>
+			<realMan>4001920</realMan>
+			<regCourseMan>17</regCourseMan>
+			<subTitle>(주)강원인재개발원</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000169696&amp;tracseTme=1&amp;trainstCstmrId=500020056729
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>033-242-3331</telNo>
+			<title>(과정평가형)헤어미용자격취득 및 양성반</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000169696&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-09-13</traEndDate>
+			<traStartDate>2018-04-20</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000169696</trprId>
+			<yardMan>20</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>대구광역시 서구 달구벌대로 1669 (내당동) 4층</address>
+			<contents />
+			<courseMan>4782600</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>201301292</instCd>
+			<ncsCd>22020109</ncsCd>
+			<realMan>4782600</realMan>
+			<regCourseMan>0</regCourseMan>
+			<subTitle>한결직업전문학교</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000170100&amp;tracseTme=1&amp;trainstCstmrId=500020029646
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>053-263-3311</telNo>
+			<title>(과정평가형)화훼장식기능사 자격 취득</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000170100&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-12-26</traEndDate>
+			<traStartDate>2018-07-23</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000170100</trprId>
+			<yardMan>20</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>서울 영등포구 당산동6가 341-4</address>
+			<contents />
+			<courseMan>4210400</courseMan>
+			<grade />
+			<imgGubun>C1_02</imgGubun>
+			<instCd>200400575</instCd>
+			<ncsCd>08020104</ncsCd>
+			<realMan>4210400</realMan>
+			<regCourseMan>0</regCourseMan>
+			<subTitle>서울현대직업전문학교</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000170263&amp;tracseTme=1&amp;trainstCstmrId=500020024007
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>02-2637-0123</telNo>
+			<title>(과정평가형자격) 반응형웹디자인</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system3.gif"
+				alt="국가기간전략훈련" title="국가기간전략훈련"&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000170263&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2019-01-11</traEndDate>
+			<traStartDate>2018-08-16</traStartDate>
+			<trainTarget>실업자(국기)</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000170263</trprId>
+			<yardMan>30</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>서울 영등포구 당산동6가 341-4</address>
+			<contents />
+			<courseMan>5446080</courseMan>
+			<grade />
+			<imgGubun>C1_02</imgGubun>
+			<instCd>200400575</instCd>
+			<ncsCd>15020104</ncsCd>
+			<realMan>5446080</realMan>
+			<regCourseMan>19</regCourseMan>
+			<subTitle>서울현대직업전문학교</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000170146&amp;tracseTme=1&amp;trainstCstmrId=500020024007
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>02-2637-0123</telNo>
+			<title>(과정평가형자격) 컴퓨터응용가공산업기사 마스터</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system3.gif"
+				alt="국가기간전략훈련" title="국가기간전략훈련"&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000170146&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-09-18</traEndDate>
+			<traStartDate>2018-03-19</traStartDate>
+			<trainTarget>실업자(국기)</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000170146</trprId>
+			<yardMan>25</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>서울특별시 노원구 동일로217가길 39 대성빌딩 3층</address>
+			<contents />
+			<courseMan>3846600</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>201100680</instCd>
+			<ncsCd>07020101</ncsCd>
+			<realMan>3846600</realMan>
+			<regCourseMan>25</regCourseMan>
+			<subTitle>원스톱직업학원</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000169476&amp;tracseTme=1&amp;trainstCstmrId=500020011802
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>02-3392-5072</telNo>
+			<title>(과정평가형자격)NCS직업상담사2급</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000169476&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-11-22</traEndDate>
+			<traStartDate>2018-06-28</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000169476</trprId>
+			<yardMan>28</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>서울특별시 구로구 구로중앙로 207 (구로동 오퍼스1) 2층</address>
+			<contents />
+			<courseMan>6525600</courseMan>
+			<grade />
+			<imgGubun>C1_02</imgGubun>
+			<instCd>200902155</instCd>
+			<ncsCd>15010201</ncsCd>
+			<realMan>6525600</realMan>
+			<regCourseMan>22</regCourseMan>
+			<subTitle>서울현대직업전문학교 디지털구로캠퍼스</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000169979&amp;tracseTme=1&amp;trainstCstmrId=500020017021
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>02-2638-0700</telNo>
+			<title>(과정평가형자격)기계설계산업기사 자격취득과정</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system3.gif"
+				alt="국가기간전략훈련" title="국가기간전략훈련"&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000169979&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-11-23</traEndDate>
+			<traStartDate>2018-04-16</traStartDate>
+			<trainTarget>실업자(국기)</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000169979</trprId>
+			<yardMan>30</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>경기도 안양시 동안구 시민대로327번길 6 6층 607-611호 서울현대직업전문학교 스마트 안양캠퍼스
+			</address>
+			<contents />
+			<courseMan>4210400</courseMan>
+			<grade />
+			<imgGubun>C1_02</imgGubun>
+			<instCd>201700445</instCd>
+			<ncsCd>08020104</ncsCd>
+			<realMan>4210400</realMan>
+			<regCourseMan>10</regCourseMan>
+			<subTitle>서울현대직업전문학교 스마트안양캠퍼스</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000170455&amp;tracseTme=1&amp;trainstCstmrId=500020031002
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>031-8091-1000</telNo>
+			<title>(과정평가형자격)반응형 디지털 웹디자인기능사 자격 취득 과정</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system3.gif"
+				alt="국가기간전략훈련" title="국가기간전략훈련"&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000170455&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-11-02</traEndDate>
+			<traStartDate>2018-06-07</traStartDate>
+			<trainTarget>실업자(국기)</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000170455</trprId>
+			<yardMan>30</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>서울특별시 강남구 강남대로 428 만이빌딩 5층 등</address>
+			<contents />
+			<courseMan>3236750</courseMan>
+			<grade />
+			<imgGubun>C1_02</imgGubun>
+			<instCd>201100784</instCd>
+			<ncsCd>08020107</ncsCd>
+			<realMan>3236750</realMan>
+			<regCourseMan>15</regCourseMan>
+			<subTitle>그린컴퓨터아카데미</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000169817&amp;tracseTme=1&amp;trainstCstmrId=500020046871
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>02-3481-1005</telNo>
+			<title>(과정평가형자격)실내건축산업기사</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system3.gif"
+				alt="국가기간전략훈련" title="국가기간전략훈련"&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000169817&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-11-16</traEndDate>
+			<traStartDate>2018-07-09</traStartDate>
+			<trainTarget>실업자(국기)</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000169817</trprId>
+			<yardMan>20</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>서울특별시 강남구 강남대로98길 20 (역삼동) 플타너스빌딩 4층</address>
+			<contents />
+			<courseMan>3157800</courseMan>
+			<grade />
+			<imgGubun>C1_02</imgGubun>
+			<instCd>201000733</instCd>
+			<ncsCd>08020104</ncsCd>
+			<realMan>3157800</realMan>
+			<regCourseMan>15</regCourseMan>
+			<subTitle>그린컴퓨터학원</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000169880&amp;tracseTme=1&amp;trainstCstmrId=500020044993
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>02-1588-9780</telNo>
+			<title>(과정평가형자격)웹디자인기능사</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system3.gif"
+				alt="국가기간전략훈련" title="국가기간전략훈련"&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000169880&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-11-09</traEndDate>
+			<traStartDate>2018-07-02</traStartDate>
+			<trainTarget>실업자(국기)</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000169880</trprId>
+			<yardMan>20</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>인천광역시 남구 경인로 106 (숭의동)</address>
+			<contents />
+			<courseMan>4350400</courseMan>
+			<grade />
+			<imgGubun>C1_02</imgGubun>
+			<instCd>200400360</instCd>
+			<ncsCd>15010201</ncsCd>
+			<realMan>4350400</realMan>
+			<regCourseMan>22</regCourseMan>
+			<subTitle>(주) 현대CAD디자인직업전문학교</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000170068&amp;tracseTme=1&amp;trainstCstmrId=500020034891
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>032-885-9950</telNo>
+			<title>(과정평가형자격)전산응용기계제도기능사</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system3.gif"
+				alt="국가기간전략훈련" title="국가기간전략훈련"&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000170068&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-11-14</traEndDate>
+			<traStartDate>2018-06-14</traStartDate>
+			<trainTarget>실업자(국기)</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000170068</trprId>
+			<yardMan>30</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>서울특별시 구로구 구로중앙로 207 (구로동 오퍼스1) 2층</address>
+			<contents />
+			<courseMan>5220480</courseMan>
+			<grade />
+			<imgGubun>C1_02</imgGubun>
+			<instCd>200902155</instCd>
+			<ncsCd>15010201</ncsCd>
+			<realMan>5220480</realMan>
+			<regCourseMan>0</regCourseMan>
+			<subTitle>서울현대직업전문학교 디지털구로캠퍼스</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000169846&amp;tracseTme=1&amp;trainstCstmrId=500020017021
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>02-2638-0700</telNo>
+			<title>(과정평가형자격)전산응용기계제도기능사 자격취득과정</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system3.gif"
+				alt="국가기간전략훈련" title="국가기간전략훈련"&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000169846&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2019-01-30</traEndDate>
+			<traStartDate>2018-08-06</traStartDate>
+			<trainTarget>실업자(국기)</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000169846</trprId>
+			<yardMan>30</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>서울특별시 강남구 강남대로 428 만이빌딩 5층 등</address>
+			<contents />
+			<courseMan>3851400</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>201100784</instCd>
+			<ncsCd>02030201</ncsCd>
+			<realMan>3851400</realMan>
+			<regCourseMan>13</regCourseMan>
+			<subTitle>그린컴퓨터아카데미</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000169824&amp;tracseTme=1&amp;trainstCstmrId=500020046871
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>02-3481-1005</telNo>
+			<title>(과정평가형자격)전산회계운용사3급</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000169824&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-09-20</traEndDate>
+			<traStartDate>2018-05-28</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000169824</trprId>
+			<yardMan>20</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>서울특별시 강남구 강남대로 428 만이빌딩 5층 등</address>
+			<contents />
+			<courseMan>3580800</courseMan>
+			<grade />
+			<imgGubun>C1_02</imgGubun>
+			<instCd>201100784</instCd>
+			<ncsCd>22010102</ncsCd>
+			<realMan>3580800</realMan>
+			<regCourseMan>0</regCourseMan>
+			<subTitle>그린컴퓨터아카데미</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000169515&amp;tracseTme=1&amp;trainstCstmrId=500020046871
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>02-3481-1005</telNo>
+			<title>(과정평가형자격)전자출판기능사</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system3.gif"
+				alt="국가기간전략훈련" title="국가기간전략훈련"&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000169515&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-11-16</traEndDate>
+			<traStartDate>2018-07-23</traStartDate>
+			<trainTarget>실업자(국기)</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000169515</trprId>
+			<yardMan>20</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>서울특별시 강남구 강남대로 428 만이빌딩 5층 등</address>
+			<contents />
+			<courseMan>3944400</courseMan>
+			<grade />
+			<imgGubun>C1_02</imgGubun>
+			<instCd>201100784</instCd>
+			<ncsCd>20010202</ncsCd>
+			<realMan>3944400</realMan>
+			<regCourseMan>0</regCourseMan>
+			<subTitle>그린컴퓨터아카데미</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000169781&amp;tracseTme=1&amp;trainstCstmrId=500020046871
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>02-3481-1005</telNo>
+			<title>(과정평가형자격)정보처리산업기사</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system3.gif"
+				alt="국가기간전략훈련" title="국가기간전략훈련"&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000169781&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-11-22</traEndDate>
+			<traStartDate>2018-07-23</traStartDate>
+			<trainTarget>실업자(국기)</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000169781</trprId>
+			<yardMan>20</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>경기도 안양시 동안구 시민대로327번길 6 6층 607-611호 서울현대직업전문학교 스마트 안양캠퍼스
+			</address>
+			<contents />
+			<courseMan>6574000</courseMan>
+			<grade />
+			<imgGubun>C1_02</imgGubun>
+			<instCd>201700445</instCd>
+			<ncsCd>20010202</ncsCd>
+			<realMan>6574000</realMan>
+			<regCourseMan>0</regCourseMan>
+			<subTitle>서울현대직업전문학교 스마트안양캠퍼스</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000170005&amp;tracseTme=1&amp;trainstCstmrId=500020031002
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>031-8091-1000</telNo>
+			<title>(과정평가형자격)정보처리산업기사 자격 취득과정</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system3.gif"
+				alt="국가기간전략훈련" title="국가기간전략훈련"&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000170005&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2019-01-30</traEndDate>
+			<traStartDate>2018-07-30</traStartDate>
+			<trainTarget>실업자(국기)</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000170005</trprId>
+			<yardMan>30</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>서울특별시 구로구 구로중앙로 207 (구로동 오퍼스1) 2층</address>
+			<contents />
+			<courseMan>6574000</courseMan>
+			<grade />
+			<imgGubun>C1_02</imgGubun>
+			<instCd>200902155</instCd>
+			<ncsCd>20010202</ncsCd>
+			<realMan>6574000</realMan>
+			<regCourseMan>16</regCourseMan>
+			<subTitle>서울현대직업전문학교 디지털구로캠퍼스</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000169904&amp;tracseTme=1&amp;trainstCstmrId=500020017021
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>02-2638-0700</telNo>
+			<title>(과정평가형자격)정보처리산업기사 자격취득과정</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system3.gif"
+				alt="국가기간전략훈련" title="국가기간전략훈련"&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000169904&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-10-05</traEndDate>
+			<traStartDate>2018-04-09</traStartDate>
+			<trainTarget>실업자(국기)</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000169904</trprId>
+			<yardMan>30</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>서울특별시 구로구 구로중앙로 207 (구로동 오퍼스1) 2층</address>
+			<contents />
+			<courseMan>3965400</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200902155</instCd>
+			<ncsCd>21020101</ncsCd>
+			<realMan>3965400</realMan>
+			<regCourseMan>0</regCourseMan>
+			<subTitle>서울현대직업전문학교 디지털구로캠퍼스</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000169653&amp;tracseTme=1&amp;trainstCstmrId=500020017021
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>02-2638-0700</telNo>
+			<title>(과정평가형자격)제과기능사 자격취득과정</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000169653&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-11-23</traEndDate>
+			<traStartDate>2018-07-23</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000169653</trprId>
+			<yardMan>20</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>서울특별시 구로구 구로중앙로 207 (구로동 오퍼스1) 2층</address>
+			<contents />
+			<courseMan>3965400</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200902155</instCd>
+			<ncsCd>21020102</ncsCd>
+			<realMan>3965400</realMan>
+			<regCourseMan>16</regCourseMan>
+			<subTitle>서울현대직업전문학교 디지털구로캠퍼스</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000169670&amp;tracseTme=1&amp;trainstCstmrId=500020017021
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>02-2638-0700</telNo>
+			<title>(과정평가형자격)제빵기능사 자격취득과정</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000169670&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-07-06</traEndDate>
+			<traStartDate>2018-03-27</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000169670</trprId>
+			<yardMan>20</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>서울특별시 강남구 강남대로 428 만이빌딩 5층 등</address>
+			<contents />
+			<courseMan>3708600</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>201100784</instCd>
+			<ncsCd>08030208</ncsCd>
+			<realMan>3708600</realMan>
+			<regCourseMan>14</regCourseMan>
+			<subTitle>그린컴퓨터아카데미</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000169829&amp;tracseTme=1&amp;trainstCstmrId=500020046871
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>02-3481-1005</telNo>
+			<title>(과정평가형자격)컴퓨터그래픽스운용기능사</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000169829&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-09-19</traEndDate>
+			<traStartDate>2018-05-28</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000169829</trprId>
+			<yardMan>20</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>인천광역시 계양구 계양대로 61 8층</address>
+			<contents />
+			<courseMan>480000</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>201000409</instCd>
+			<ncsCd>06010108</ncsCd>
+			<realMan>480000</realMan>
+			<regCourseMan>31</regCourseMan>
+			<subTitle>조은요양보호사교육원</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000174203&amp;tracseTme=1&amp;trainstCstmrId=500020015095
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>032-508-1010</telNo>
+			<title>(구직자) 요양보호사 자격증 취득과정</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000174203&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-03-05</traEndDate>
+			<traStartDate>2018-01-18</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000174203</trprId>
+			<yardMan>40</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>인천광역시 계양구 계양대로 61 8층</address>
+			<contents />
+			<courseMan>480000</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>201000409</instCd>
+			<ncsCd>06010108</ncsCd>
+			<realMan>480000</realMan>
+			<regCourseMan>32</regCourseMan>
+			<subTitle>조은요양보호사교육원</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000174203&amp;tracseTme=2&amp;trainstCstmrId=500020015095
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>032-508-1010</telNo>
+			<title>(구직자) 요양보호사 자격증 취득과정</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000174203&amp;tracseTme=2
+			</titleLink>
+			<traEndDate>2018-03-30</traEndDate>
+			<traStartDate>2018-02-19</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>2</trprDegr>
+			<trprId>AIG20170000174203</trprId>
+			<yardMan>40</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>인천광역시 계양구 계양대로 61 8층</address>
+			<contents />
+			<courseMan>480000</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>201000409</instCd>
+			<ncsCd>06010108</ncsCd>
+			<realMan>480000</realMan>
+			<regCourseMan>29</regCourseMan>
+			<subTitle>조은요양보호사교육원</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000174203&amp;tracseTme=3&amp;trainstCstmrId=500020015095
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>032-508-1010</telNo>
+			<title>(구직자) 요양보호사 자격증 취득과정</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000174203&amp;tracseTme=3
+			</titleLink>
+			<traEndDate>2018-04-27</traEndDate>
+			<traStartDate>2018-03-19</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>3</trprDegr>
+			<trprId>AIG20170000174203</trprId>
+			<yardMan>40</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>인천광역시 계양구 계양대로 61 8층</address>
+			<contents />
+			<courseMan>480000</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>201000409</instCd>
+			<ncsCd>06010108</ncsCd>
+			<realMan>480000</realMan>
+			<regCourseMan>32</regCourseMan>
+			<subTitle>조은요양보호사교육원</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000174203&amp;tracseTme=4&amp;trainstCstmrId=500020015095
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>032-508-1010</telNo>
+			<title>(구직자) 요양보호사 자격증 취득과정</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000174203&amp;tracseTme=4
+			</titleLink>
+			<traEndDate>2018-05-29</traEndDate>
+			<traStartDate>2018-04-16</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>4</trprDegr>
+			<trprId>AIG20170000174203</trprId>
+			<yardMan>40</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>인천광역시 계양구 계양대로 61 8층</address>
+			<contents />
+			<courseMan>480000</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>201000409</instCd>
+			<ncsCd>06010108</ncsCd>
+			<realMan>480000</realMan>
+			<regCourseMan>34</regCourseMan>
+			<subTitle>조은요양보호사교육원</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000174203&amp;tracseTme=5&amp;trainstCstmrId=500020015095
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>032-508-1010</telNo>
+			<title>(구직자) 요양보호사 자격증 취득과정</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000174203&amp;tracseTme=5
+			</titleLink>
+			<traEndDate>2018-06-28</traEndDate>
+			<traStartDate>2018-05-15</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>5</trprDegr>
+			<trprId>AIG20170000174203</trprId>
+			<yardMan>40</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>인천광역시 계양구 계양대로 61 8층</address>
+			<contents />
+			<courseMan>480000</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>201000409</instCd>
+			<ncsCd>06010108</ncsCd>
+			<realMan>480000</realMan>
+			<regCourseMan>30</regCourseMan>
+			<subTitle>조은요양보호사교육원</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000174203&amp;tracseTme=6&amp;trainstCstmrId=500020015095
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>032-508-1010</telNo>
+			<title>(구직자) 요양보호사 자격증 취득과정</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000174203&amp;tracseTme=6
+			</titleLink>
+			<traEndDate>2018-07-26</traEndDate>
+			<traStartDate>2018-06-15</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>6</trprDegr>
+			<trprId>AIG20170000174203</trprId>
+			<yardMan>40</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>인천광역시 계양구 계양대로 61 8층</address>
+			<contents />
+			<courseMan>480000</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>201000409</instCd>
+			<ncsCd>06010108</ncsCd>
+			<realMan>480000</realMan>
+			<regCourseMan>27</regCourseMan>
+			<subTitle>조은요양보호사교육원</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000174203&amp;tracseTme=7&amp;trainstCstmrId=500020015095
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>032-508-1010</telNo>
+			<title>(구직자) 요양보호사 자격증 취득과정</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000174203&amp;tracseTme=7
+			</titleLink>
+			<traEndDate>2018-08-24</traEndDate>
+			<traStartDate>2018-07-13</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>7</trprDegr>
+			<trprId>AIG20170000174203</trprId>
+			<yardMan>40</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>인천광역시 계양구 계양대로 61 8층</address>
+			<contents />
+			<courseMan>480000</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>201000409</instCd>
+			<ncsCd>06010108</ncsCd>
+			<realMan>480000</realMan>
+			<regCourseMan>0</regCourseMan>
+			<subTitle>조은요양보호사교육원</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000174203&amp;tracseTme=8&amp;trainstCstmrId=500020015095
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>032-508-1010</telNo>
+			<title>(구직자) 요양보호사 자격증 취득과정</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000174203&amp;tracseTme=8
+			</titleLink>
+			<traEndDate>2018-09-21</traEndDate>
+			<traStartDate>2018-08-10</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>8</trprDegr>
+			<trprId>AIG20170000174203</trprId>
+			<yardMan>40</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>울산시 남구 달동 (달동) 1400-5번지 B L</address>
+			<contents />
+			<courseMan>1639250</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200902189</instCd>
+			<ncsCd>13010203</ncsCd>
+			<realMan>1639250</realMan>
+			<regCourseMan>12</regCourseMan>
+			<subTitle>엠제빵직업전문학교</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000157954&amp;tracseTme=1&amp;trainstCstmrId=500020040202
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>052-266-4900</telNo>
+			<title>(구직자)바리스타와 사이드 메뉴반(바리스타2급 자격증 포함)</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000157954&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-10-18</traEndDate>
+			<traStartDate>2018-06-25</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000157954</trprId>
+			<yardMan>12</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>울산시 남구 달동 (달동) 1400-5번지 B L</address>
+			<contents />
+			<courseMan>1639250</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200902189</instCd>
+			<ncsCd>13010203</ncsCd>
+			<realMan>1639250</realMan>
+			<regCourseMan>11</regCourseMan>
+			<subTitle>엠제빵직업전문학교</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000157954&amp;tracseTme=2&amp;trainstCstmrId=500020040202
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>052-266-4900</telNo>
+			<title>(구직자)바리스타와 사이드 메뉴반(바리스타2급 자격증 포함)</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000157954&amp;tracseTme=2
+			</titleLink>
+			<traEndDate>2018-10-24</traEndDate>
+			<traStartDate>2018-06-29</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>2</trprDegr>
+			<trprId>AIG20170000157954</trprId>
+			<yardMan>12</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>경상남도 창원시 의창구 원이대로 587 605호</address>
+			<contents />
+			<courseMan>450000</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>201400049</instCd>
+			<ncsCd>06010108</ncsCd>
+			<realMan>450000</realMan>
+			<regCourseMan>24</regCourseMan>
+			<subTitle>창원행복요양보호사교육원</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000177979&amp;tracseTme=1&amp;trainstCstmrId=500020058905
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>055-274-3363</telNo>
+			<title>(국가공인)요양보호사 자격증 취득 과정</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000177979&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-04-27</traEndDate>
+			<traStartDate>2018-03-19</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000177979</trprId>
+			<yardMan>40</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>경상남도 창원시 의창구 원이대로 587 605호</address>
+			<contents />
+			<courseMan>450000</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>201400049</instCd>
+			<ncsCd>06010108</ncsCd>
+			<realMan>450000</realMan>
+			<regCourseMan>19</regCourseMan>
+			<subTitle>창원행복요양보호사교육원</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000177979&amp;tracseTme=2&amp;trainstCstmrId=500020058905
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>055-274-3363</telNo>
+			<title>(국가공인)요양보호사 자격증 취득 과정</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000177979&amp;tracseTme=2
+			</titleLink>
+			<traEndDate>2018-06-01</traEndDate>
+			<traStartDate>2018-04-16</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>2</trprDegr>
+			<trprId>AIG20170000177979</trprId>
+			<yardMan>40</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>경상남도 창원시 의창구 원이대로 587 605호</address>
+			<contents />
+			<courseMan>450000</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>201400049</instCd>
+			<ncsCd>06010108</ncsCd>
+			<realMan>450000</realMan>
+			<regCourseMan>18</regCourseMan>
+			<subTitle>창원행복요양보호사교육원</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000177979&amp;tracseTme=3&amp;trainstCstmrId=500020058905
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>055-274-3363</telNo>
+			<title>(국가공인)요양보호사 자격증 취득 과정</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000177979&amp;tracseTme=3
+			</titleLink>
+			<traEndDate>2018-06-29</traEndDate>
+			<traStartDate>2018-05-15</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>3</trprDegr>
+			<trprId>AIG20170000177979</trprId>
+			<yardMan>40</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>경상남도 창원시 의창구 원이대로 587 605호</address>
+			<contents />
+			<courseMan>450000</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>201400049</instCd>
+			<ncsCd>06010108</ncsCd>
+			<realMan>450000</realMan>
+			<regCourseMan>24</regCourseMan>
+			<subTitle>창원행복요양보호사교육원</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000177979&amp;tracseTme=4&amp;trainstCstmrId=500020058905
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>055-274-3363</telNo>
+			<title>(국가공인)요양보호사 자격증 취득 과정</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000177979&amp;tracseTme=4
+			</titleLink>
+			<traEndDate>2018-08-10</traEndDate>
+			<traStartDate>2018-07-02</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>4</trprDegr>
+			<trprId>AIG20170000177979</trprId>
+			<yardMan>40</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>경상남도 창원시 의창구 원이대로 587 605호</address>
+			<contents />
+			<courseMan>450000</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>201400049</instCd>
+			<ncsCd>06010108</ncsCd>
+			<realMan>450000</realMan>
+			<regCourseMan>0</regCourseMan>
+			<subTitle>창원행복요양보호사교육원</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000177979&amp;tracseTme=5&amp;trainstCstmrId=500020058905
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>055-274-3363</telNo>
+			<title>(국가공인)요양보호사 자격증 취득 과정</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000177979&amp;tracseTme=5
+			</titleLink>
+			<traEndDate>2018-09-14</traEndDate>
+			<traStartDate>2018-08-03</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>5</trprDegr>
+			<trprId>AIG20170000177979</trprId>
+			<yardMan>40</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>경상남도 창원시 의창구 원이대로 587 605호</address>
+			<contents />
+			<courseMan>450000</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>201400049</instCd>
+			<ncsCd>06010108</ncsCd>
+			<realMan>450000</realMan>
+			<regCourseMan>0</regCourseMan>
+			<subTitle>창원행복요양보호사교육원</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000177979&amp;tracseTme=6&amp;trainstCstmrId=500020058905
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>055-274-3363</telNo>
+			<title>(국가공인)요양보호사 자격증 취득 과정</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000177979&amp;tracseTme=6
+			</titleLink>
+			<traEndDate>2018-11-02</traEndDate>
+			<traStartDate>2018-09-10</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>6</trprDegr>
+			<trprId>AIG20170000177979</trprId>
+			<yardMan>40</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>인천광역시 남구 주안로 86 우신빌딩 7층 노아요양보호사교육원</address>
+			<contents />
+			<courseMan>600000</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>201503364</instCd>
+			<ncsCd>06010108</ncsCd>
+			<realMan>600000</realMan>
+			<regCourseMan>1</regCourseMan>
+			<subTitle>노아요양보호사교육원</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20180000192565&amp;tracseTme=1&amp;trainstCstmrId=500020035459
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>032-867-9100</telNo>
+			<title>(국가자격증취득)요양보호사</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20180000192565&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-09-14</traEndDate>
+			<traStartDate>2018-08-02</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20180000192565</trprId>
+			<yardMan>40</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>인천광역시 남구 주안로 86 우신빌딩 7층 노아요양보호사교육원</address>
+			<contents />
+			<courseMan>600000</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>201503364</instCd>
+			<ncsCd>06010108</ncsCd>
+			<realMan>600000</realMan>
+			<regCourseMan>0</regCourseMan>
+			<subTitle>노아요양보호사교육원</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20180000192565&amp;tracseTme=2&amp;trainstCstmrId=500020035459
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>032-867-9100</telNo>
+			<title>(국가자격증취득)요양보호사</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20180000192565&amp;tracseTme=2
+			</titleLink>
+			<traEndDate>2018-11-02</traEndDate>
+			<traStartDate>2018-08-16</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>2</trprDegr>
+			<trprId>AIG20180000192565</trprId>
+			<yardMan>40</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>서울특별시 동대문구 왕산로 225 미주상가A동502호</address>
+			<contents />
+			<courseMan>1668940</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200401290</instCd>
+			<ncsCd>02030202</ncsCd>
+			<realMan>1668940</realMan>
+			<regCourseMan>10</regCourseMan>
+			<subTitle>대성회계실무학원주식회사</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20160000127151&amp;tracseTme=4&amp;trainstCstmrId=500020038398
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>02-966-8400</telNo>
+			<title>(더존)전산세무회계(FAT1급/TAT2급/ERP회계2급)취득</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20160000127151&amp;tracseTme=4
+			</titleLink>
+			<traEndDate>2018-08-14</traEndDate>
+			<traStartDate>2018-06-04</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>4</trprDegr>
+			<trprId>AIG20160000127151</trprId>
+			<yardMan>19</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>서울특별시 강북구 도봉로 129 322-6</address>
+			<contents />
+			<courseMan>1027040</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200500676</instCd>
+			<ncsCd>02030201</ncsCd>
+			<realMan>1027040</realMan>
+			<regCourseMan>2</regCourseMan>
+			<subTitle>예우전산세무회계학원</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000180850&amp;tracseTme=1&amp;trainstCstmrId=500020052986
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>02-989-0968</telNo>
+			<title>(더존AT)FAT전산회계1급/TAT전산세무2급 취득과정</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000180850&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-04-09</traEndDate>
+			<traStartDate>2018-02-07</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000180850</trprId>
+			<yardMan>15</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>서울특별시 강북구 도봉로 129 322-6</address>
+			<contents />
+			<courseMan>1027040</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200500676</instCd>
+			<ncsCd>02030201</ncsCd>
+			<realMan>1027040</realMan>
+			<regCourseMan>2</regCourseMan>
+			<subTitle>예우전산세무회계학원</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000180850&amp;tracseTme=2&amp;trainstCstmrId=500020052986
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>02-989-0968</telNo>
+			<title>(더존AT)FAT전산회계1급/TAT전산세무2급 취득과정</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000180850&amp;tracseTme=2
+			</titleLink>
+			<traEndDate>2018-05-04</traEndDate>
+			<traStartDate>2018-03-12</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>2</trprDegr>
+			<trprId>AIG20170000180850</trprId>
+			<yardMan>15</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>서울특별시 강북구 도봉로 129 322-6</address>
+			<contents />
+			<courseMan>1027040</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200500676</instCd>
+			<ncsCd>02030201</ncsCd>
+			<realMan>1027040</realMan>
+			<regCourseMan>3</regCourseMan>
+			<subTitle>예우전산세무회계학원</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000180850&amp;tracseTme=3&amp;trainstCstmrId=500020052986
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>02-989-0968</telNo>
+			<title>(더존AT)FAT전산회계1급/TAT전산세무2급 취득과정</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000180850&amp;tracseTme=3
+			</titleLink>
+			<traEndDate>2018-06-08</traEndDate>
+			<traStartDate>2018-04-11</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>3</trprDegr>
+			<trprId>AIG20170000180850</trprId>
+			<yardMan>15</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>서울특별시 강북구 도봉로 129 322-6</address>
+			<contents />
+			<courseMan>1027040</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200500676</instCd>
+			<ncsCd>02030201</ncsCd>
+			<realMan>1027040</realMan>
+			<regCourseMan>4</regCourseMan>
+			<subTitle>예우전산세무회계학원</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000180850&amp;tracseTme=4&amp;trainstCstmrId=500020052986
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>02-989-0968</telNo>
+			<title>(더존AT)FAT전산회계1급/TAT전산세무2급 취득과정</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000180850&amp;tracseTme=4
+			</titleLink>
+			<traEndDate>2018-07-11</traEndDate>
+			<traStartDate>2018-05-14</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>4</trprDegr>
+			<trprId>AIG20170000180850</trprId>
+			<yardMan>15</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>서울특별시 강북구 도봉로 129 322-6</address>
+			<contents />
+			<courseMan>1027040</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200500676</instCd>
+			<ncsCd>02030201</ncsCd>
+			<realMan>1027040</realMan>
+			<regCourseMan>2</regCourseMan>
+			<subTitle>예우전산세무회계학원</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000180850&amp;tracseTme=5&amp;trainstCstmrId=500020052986
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>02-989-0968</telNo>
+			<title>(더존AT)FAT전산회계1급/TAT전산세무2급 취득과정</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000180850&amp;tracseTme=5
+			</titleLink>
+			<traEndDate>2018-08-10</traEndDate>
+			<traStartDate>2018-06-11</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>5</trprDegr>
+			<trprId>AIG20170000180850</trprId>
+			<yardMan>15</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>서울특별시 강북구 도봉로 129 322-6</address>
+			<contents />
+			<courseMan>1027040</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200500676</instCd>
+			<ncsCd>02030201</ncsCd>
+			<realMan>1027040</realMan>
+			<regCourseMan>1</regCourseMan>
+			<subTitle>예우전산세무회계학원</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000180850&amp;tracseTme=6&amp;trainstCstmrId=500020052986
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>02-989-0968</telNo>
+			<title>(더존AT)FAT전산회계1급/TAT전산세무2급 취득과정</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000180850&amp;tracseTme=6
+			</titleLink>
+			<traEndDate>2018-09-13</traEndDate>
+			<traStartDate>2018-07-16</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>6</trprDegr>
+			<trprId>AIG20170000180850</trprId>
+			<yardMan>15</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>서울특별시 강북구 도봉로 129 322-6</address>
+			<contents />
+			<courseMan>1027040</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200500676</instCd>
+			<ncsCd>02030201</ncsCd>
+			<realMan>1027040</realMan>
+			<regCourseMan>0</regCourseMan>
+			<subTitle>예우전산세무회계학원</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000180850&amp;tracseTme=7&amp;trainstCstmrId=500020052986
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>02-989-0968</telNo>
+			<title>(더존AT)FAT전산회계1급/TAT전산세무2급 취득과정</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000180850&amp;tracseTme=7
+			</titleLink>
+			<traEndDate>2018-10-12</traEndDate>
+			<traStartDate>2018-08-13</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>7</trprDegr>
+			<trprId>AIG20170000180850</trprId>
+			<yardMan>15</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>서울특별시 영등포구 양평로12길 9 디자인아트센터 B1,3,4,5,6,7,8</address>
+			<contents />
+			<courseMan>6315600</courseMan>
+			<grade />
+			<imgGubun>C1_02</imgGubun>
+			<instCd>200902687</instCd>
+			<ncsCd>08020104</ncsCd>
+			<realMan>6315600</realMan>
+			<regCourseMan>0</regCourseMan>
+			<subTitle>서울경희직업전문학교</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000183014&amp;tracseTme=1&amp;trainstCstmrId=500020055939
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>02-2632-3070</telNo>
+			<title>(디지털 디자인) UX/UI디자이너양성과정</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system3.gif"
+				alt="국가기간전략훈련" title="국가기간전략훈련"&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000183014&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-12-07</traEndDate>
+			<traStartDate>2018-04-30</traStartDate>
+			<trainTarget>실업자(국기)</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000183014</trprId>
+			<yardMan>20</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>서울특별시 양천구 신정동 945-2 신정스포렉스 가동2층</address>
+			<contents />
+			<courseMan>1375660</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>201001447</instCd>
+			<ncsCd>12010103</ncsCd>
+			<realMan>1375660</realMan>
+			<regCourseMan>0</regCourseMan>
+			<subTitle>엠뷰티아카데미학원</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20180000192938&amp;tracseTme=1&amp;trainstCstmrId=500020049277
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>02-2603-8889</telNo>
+			<title>(미용사)메이크업자격증취득</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20180000192938&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-12-12</traEndDate>
+			<traStartDate>2018-07-30</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20180000192938</trprId>
+			<yardMan>10</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>경상북도 포항시 북구 중흥로 232 (죽도동 테라스퀘어빌딩)</address>
+			<contents />
+			<courseMan>1283800</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200000176</instCd>
+			<ncsCd>02030202</ncsCd>
+			<realMan>1283800</realMan>
+			<regCourseMan>12</regCourseMan>
+			<subTitle>(주)두풍회계직업전문학교</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000173522&amp;tracseTme=1&amp;trainstCstmrId=500020040838
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>054-274-5949</telNo>
+			<title>(세무사무원)전산세무2급+TAT2급자격증 취득과정</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000173522&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-04-05</traEndDate>
+			<traStartDate>2018-02-05</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000173522</trprId>
+			<yardMan>25</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>인천광역시 부평구 열우물로 18-1 (십정동) 3층</address>
+			<contents />
+			<courseMan>962850</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200701727</instCd>
+			<ncsCd>02030201</ncsCd>
+			<realMan>962850</realMan>
+			<regCourseMan>7</regCourseMan>
+			<subTitle>간석전산세무회계학원</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000179450&amp;tracseTme=1&amp;trainstCstmrId=500020034508
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>032-428-7019</telNo>
+			<title>(세무사회 회계1,세무2+회계사회 FAT1) 단기자격증취득 및 취업반</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000179450&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-05-03</traEndDate>
+			<traStartDate>2018-03-13</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000179450</trprId>
+			<yardMan>15</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>인천광역시 부평구 열우물로 18-1 (십정동) 3층</address>
+			<contents />
+			<courseMan>962850</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200701727</instCd>
+			<ncsCd>02030201</ncsCd>
+			<realMan>962850</realMan>
+			<regCourseMan>3</regCourseMan>
+			<subTitle>간석전산세무회계학원</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000179450&amp;tracseTme=2&amp;trainstCstmrId=500020034508
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>032-428-7019</telNo>
+			<title>(세무사회 회계1,세무2+회계사회 FAT1) 단기자격증취득 및 취업반</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000179450&amp;tracseTme=2
+			</titleLink>
+			<traEndDate>2018-06-27</traEndDate>
+			<traStartDate>2018-05-15</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>2</trprDegr>
+			<trprId>AIG20170000179450</trprId>
+			<yardMan>15</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>인천광역시 부평구 열우물로 18-1 (십정동) 3층</address>
+			<contents />
+			<courseMan>962850</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200701727</instCd>
+			<ncsCd>02030201</ncsCd>
+			<realMan>962850</realMan>
+			<regCourseMan>10</regCourseMan>
+			<subTitle>간석전산세무회계학원</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000179450&amp;tracseTme=3&amp;trainstCstmrId=500020034508
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>032-428-7019</telNo>
+			<title>(세무사회 회계1,세무2+회계사회 FAT1) 단기자격증취득 및 취업반</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000179450&amp;tracseTme=3
+			</titleLink>
+			<traEndDate>2018-08-02</traEndDate>
+			<traStartDate>2018-06-29</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>3</trprDegr>
+			<trprId>AIG20170000179450</trprId>
+			<yardMan>15</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>경상남도 진주시 촉석로 203 5/6층 뉴영남요리제과제빵아카데미</address>
+			<contents />
+			<courseMan>681030</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200400731</instCd>
+			<ncsCd>13010102</ncsCd>
+			<realMan>681030</realMan>
+			<regCourseMan>10</regCourseMan>
+			<subTitle>뉴영남요리제과제빵아카데미</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000167047&amp;tracseTme=2&amp;trainstCstmrId=500020047223
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>055-747-5000</telNo>
+			<title>(실기) 양식조리기능사 및 브런치 실무자 양성</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000167047&amp;tracseTme=2
+			</titleLink>
+			<traEndDate>2018-05-18</traEndDate>
+			<traStartDate>2018-03-12</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>2</trprDegr>
+			<trprId>AIG20170000167047</trprId>
+			<yardMan>10</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>경상남도 진주시 촉석로 203 5/6층 뉴영남요리제과제빵아카데미</address>
+			<contents />
+			<courseMan>681030</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200400731</instCd>
+			<ncsCd>13010103</ncsCd>
+			<realMan>681030</realMan>
+			<regCourseMan>9</regCourseMan>
+			<subTitle>뉴영남요리제과제빵아카데미</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000187353&amp;tracseTme=1&amp;trainstCstmrId=500020047223
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>055-747-5000</telNo>
+			<title>(실기) 중식조리기능사 자격취득</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000187353&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-07-25</traEndDate>
+			<traStartDate>2018-06-04</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000187353</trprId>
+			<yardMan>10</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>경기도 성남시 분당구 성남대로926번길 6 (야탑동 야탑 대덕프라자) 411호</address>
+			<contents />
+			<courseMan>660900</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200900095</instCd>
+			<ncsCd>21020101</ncsCd>
+			<realMan>660900</realMan>
+			<regCourseMan>17</regCourseMan>
+			<subTitle>한국음식문화직업전문학교</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000163173&amp;tracseTme=4&amp;trainstCstmrId=500020019396
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>031-749-5959</telNo>
+			<title>(실업자)케이크&amp;디저트실기과정</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000163173&amp;tracseTme=4
+			</titleLink>
+			<traEndDate>2018-05-08</traEndDate>
+			<traStartDate>2018-04-03</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>4</trprDegr>
+			<trprId>AIG20170000163173</trprId>
+			<yardMan>18</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>경기도 성남시 분당구 성남대로926번길 6 (야탑동 야탑 대덕프라자) 411호</address>
+			<contents />
+			<courseMan>660900</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200900095</instCd>
+			<ncsCd>21020101</ncsCd>
+			<realMan>660900</realMan>
+			<regCourseMan>8</regCourseMan>
+			<subTitle>한국음식문화직업전문학교</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000163173&amp;tracseTme=5&amp;trainstCstmrId=500020019396
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>031-749-5959</telNo>
+			<title>(실업자)케이크&amp;디저트실기과정</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000163173&amp;tracseTme=5
+			</titleLink>
+			<traEndDate>2018-06-15</traEndDate>
+			<traStartDate>2018-05-09</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>5</trprDegr>
+			<trprId>AIG20170000163173</trprId>
+			<yardMan>18</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>전남 목포시 산정동 1044-54 6층</address>
+			<contents />
+			<courseMan>2270100</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200601429</instCd>
+			<ncsCd>13010101</ncsCd>
+			<realMan>2270100</realMan>
+			<regCourseMan>15</regCourseMan>
+			<subTitle>음식나라조리학원</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20180000190133&amp;tracseTme=1&amp;trainstCstmrId=500020023859
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>061-279-1700</telNo>
+			<title>(실업자)한식조리기능사 취득과정</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20180000190133&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-10-18</traEndDate>
+			<traStartDate>2018-06-25</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20180000190133</trprId>
+			<yardMan>15</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>서울특별시 영등포구 경인로 829 JES미용예술직업전문학교</address>
+			<contents />
+			<courseMan>2000960</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200200166</instCd>
+			<ncsCd>12010101</ncsCd>
+			<realMan>2000960</realMan>
+			<regCourseMan>4</regCourseMan>
+			<subTitle>JES미용예술직업전문학교</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000176667&amp;tracseTme=1&amp;trainstCstmrId=500020020882
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>02-2675-0004</telNo>
+			<title>(이론+실기) 미용사(일반) 자격증 취득과정</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000176667&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-08-30</traEndDate>
+			<traStartDate>2018-04-02</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000176667</trprId>
+			<yardMan>20</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>서울특별시 영등포구 경인로 829 JES미용예술직업전문학교</address>
+			<contents />
+			<courseMan>2000960</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200200166</instCd>
+			<ncsCd>12010101</ncsCd>
+			<realMan>2000960</realMan>
+			<regCourseMan>4</regCourseMan>
+			<subTitle>JES미용예술직업전문학교</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000176667&amp;tracseTme=2&amp;trainstCstmrId=500020020882
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>02-2675-0004</telNo>
+			<title>(이론+실기) 미용사(일반) 자격증 취득과정</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000176667&amp;tracseTme=2
+			</titleLink>
+			<traEndDate>2018-09-10</traEndDate>
+			<traStartDate>2018-05-15</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>2</trprDegr>
+			<trprId>AIG20170000176667</trprId>
+			<yardMan>20</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>인천 남동구 간석4동 239-5</address>
+			<contents />
+			<courseMan>1021540</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>199800060</instCd>
+			<ncsCd>13010104</ncsCd>
+			<realMan>1021550</realMan>
+			<regCourseMan>0</regCourseMan>
+			<subTitle>국제요리학원</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20180000193541&amp;tracseTme=1&amp;trainstCstmrId=500020015903
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>032-428-8447</telNo>
+			<title>(이론+실기) 일식자격증취득</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20180000193541&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-11-09</traEndDate>
+			<traStartDate>2018-09-03</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20180000193541</trprId>
+			<yardMan>12</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>경상남도 진주시 촉석로 203 5/6층 뉴영남요리제과제빵아카데미</address>
+			<contents />
+			<courseMan>1586160</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200400731</instCd>
+			<ncsCd>21020102</ncsCd>
+			<realMan>1586160</realMan>
+			<regCourseMan>4</regCourseMan>
+			<subTitle>뉴영남요리제과제빵아카데미</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000168240&amp;tracseTme=2&amp;trainstCstmrId=500020047223
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>055-747-5000</telNo>
+			<title>(이론+실기) 제과제빵기능사 취득과정</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000168240&amp;tracseTme=2
+			</titleLink>
+			<traEndDate>2018-06-08</traEndDate>
+			<traStartDate>2018-03-13</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>2</trprDegr>
+			<trprId>AIG20170000168240</trprId>
+			<yardMan>10</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>경상남도 진주시 촉석로 203 5/6층 뉴영남요리제과제빵아카데미</address>
+			<contents />
+			<courseMan>1586160</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200400731</instCd>
+			<ncsCd>21020102</ncsCd>
+			<realMan>1586160</realMan>
+			<regCourseMan>8</regCourseMan>
+			<subTitle>뉴영남요리제과제빵아카데미</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000168240&amp;tracseTme=3&amp;trainstCstmrId=500020047223
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>055-747-5000</telNo>
+			<title>(이론+실기) 제과제빵기능사 취득과정</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000168240&amp;tracseTme=3
+			</titleLink>
+			<traEndDate>2018-09-13</traEndDate>
+			<traStartDate>2018-06-18</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>3</trprDegr>
+			<trprId>AIG20170000168240</trprId>
+			<yardMan>10</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>서울특별시 구로구 디지털로32길 30 511~512호</address>
+			<contents />
+			<courseMan>1359130</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200700119</instCd>
+			<ncsCd>07020101</ncsCd>
+			<realMan>1359130</realMan>
+			<regCourseMan>14</regCourseMan>
+			<subTitle>서울산업정보교육원</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000184266&amp;tracseTme=1&amp;trainstCstmrId=500020021928
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>02-803-3333</telNo>
+			<title>(이론+실기) 직업상담사2급 자격증 취득과정</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000184266&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-06-27</traEndDate>
+			<traStartDate>2018-04-10</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000184266</trprId>
+			<yardMan>20</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>서울특별시 구로구 디지털로32길 30 511~512호</address>
+			<contents />
+			<courseMan>1359130</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200700119</instCd>
+			<ncsCd>07020101</ncsCd>
+			<realMan>1359130</realMan>
+			<regCourseMan>13</regCourseMan>
+			<subTitle>서울산업정보교육원</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000184266&amp;tracseTme=2&amp;trainstCstmrId=500020021928
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>02-803-3333</telNo>
+			<title>(이론+실기) 직업상담사2급 자격증 취득과정</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000184266&amp;tracseTme=2
+			</titleLink>
+			<traEndDate>2018-08-02</traEndDate>
+			<traStartDate>2018-05-23</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>2</trprDegr>
+			<trprId>AIG20170000184266</trprId>
+			<yardMan>20</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>서울특별시 구로구 디지털로32길 30 511~512호</address>
+			<contents />
+			<courseMan>1359130</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200700119</instCd>
+			<ncsCd>07020101</ncsCd>
+			<realMan>1359130</realMan>
+			<regCourseMan>5</regCourseMan>
+			<subTitle>서울산업정보교육원</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000184266&amp;tracseTme=3&amp;trainstCstmrId=500020021928
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>02-803-3333</telNo>
+			<title>(이론+실기) 직업상담사2급 자격증 취득과정</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000184266&amp;tracseTme=3
+			</titleLink>
+			<traEndDate>2018-09-21</traEndDate>
+			<traStartDate>2018-07-06</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>3</trprDegr>
+			<trprId>AIG20170000184266</trprId>
+			<yardMan>20</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>경상남도 진주시 촉석로 203 5/6층 뉴영남요리제과제빵아카데미</address>
+			<contents />
+			<courseMan>1589070</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200400731</instCd>
+			<ncsCd>13010101</ncsCd>
+			<realMan>1589070</realMan>
+			<regCourseMan>10</regCourseMan>
+			<subTitle>뉴영남요리제과제빵아카데미</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000166592&amp;tracseTme=4&amp;trainstCstmrId=500020047223
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>055-747-5000</telNo>
+			<title>(이론+실기) 한식,양식조리기능사 자격취득</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000166592&amp;tracseTme=4
+			</titleLink>
+			<traEndDate>2018-04-27</traEndDate>
+			<traStartDate>2018-01-17</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>4</trprDegr>
+			<trprId>AIG20170000166592</trprId>
+			<yardMan>12</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>경상남도 진주시 촉석로 203 5/6층 뉴영남요리제과제빵아카데미</address>
+			<contents />
+			<courseMan>1589070</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200400731</instCd>
+			<ncsCd>13010101</ncsCd>
+			<realMan>1589070</realMan>
+			<regCourseMan>5</regCourseMan>
+			<subTitle>뉴영남요리제과제빵아카데미</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000166592&amp;tracseTme=5&amp;trainstCstmrId=500020047223
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>055-747-5000</telNo>
+			<title>(이론+실기) 한식,양식조리기능사 자격취득</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000166592&amp;tracseTme=5
+			</titleLink>
+			<traEndDate>2018-06-15</traEndDate>
+			<traStartDate>2018-03-05</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>5</trprDegr>
+			<trprId>AIG20170000166592</trprId>
+			<yardMan>12</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>경상남도 진주시 촉석로 203 5/6층 뉴영남요리제과제빵아카데미</address>
+			<contents />
+			<courseMan>1589070</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200400731</instCd>
+			<ncsCd>13010101</ncsCd>
+			<realMan>1589070</realMan>
+			<regCourseMan>8</regCourseMan>
+			<subTitle>뉴영남요리제과제빵아카데미</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000166592&amp;tracseTme=6&amp;trainstCstmrId=500020047223
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>055-747-5000</telNo>
+			<title>(이론+실기) 한식,양식조리기능사 자격취득</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000166592&amp;tracseTme=6
+			</titleLink>
+			<traEndDate>2018-07-25</traEndDate>
+			<traStartDate>2018-04-12</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>6</trprDegr>
+			<trprId>AIG20170000166592</trprId>
+			<yardMan>12</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>경상남도 진주시 촉석로 203 5/6층 뉴영남요리제과제빵아카데미</address>
+			<contents />
+			<courseMan>1589070</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200400731</instCd>
+			<ncsCd>13010101</ncsCd>
+			<realMan>1589070</realMan>
+			<regCourseMan>10</regCourseMan>
+			<subTitle>뉴영남요리제과제빵아카데미</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000166592&amp;tracseTme=7&amp;trainstCstmrId=500020047223
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>055-747-5000</telNo>
+			<title>(이론+실기) 한식,양식조리기능사 자격취득</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000166592&amp;tracseTme=7
+			</titleLink>
+			<traEndDate>2018-09-07</traEndDate>
+			<traStartDate>2018-05-29</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>7</trprDegr>
+			<trprId>AIG20170000166592</trprId>
+			<yardMan>12</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>경상남도 진주시 촉석로 203 5/6층 뉴영남요리제과제빵아카데미</address>
+			<contents />
+			<courseMan>1589070</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200400731</instCd>
+			<ncsCd>13010101</ncsCd>
+			<realMan>1589070</realMan>
+			<regCourseMan>0</regCourseMan>
+			<subTitle>뉴영남요리제과제빵아카데미</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20180000191893&amp;tracseTme=1&amp;trainstCstmrId=500020047223
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>055-747-5000</telNo>
+			<title>(이론+실기) 한식,양식조리기능사 자격취득</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20180000191893&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-11-09</traEndDate>
+			<traStartDate>2018-07-26</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20180000191893</trprId>
+			<yardMan>12</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>경상남도 진주시 촉석로 203 5/6층 뉴영남요리제과제빵아카데미</address>
+			<contents />
+			<courseMan>1702570</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200400731</instCd>
+			<ncsCd>13010101</ncsCd>
+			<realMan>1702570</realMan>
+			<regCourseMan>6</regCourseMan>
+			<subTitle>뉴영남요리제과제빵아카데미</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000172204&amp;tracseTme=1&amp;trainstCstmrId=500020047223
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>055-747-5000</telNo>
+			<title>(이론+실기) 한식,중식조리기능사 자격취득</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000172204&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-06-22</traEndDate>
+			<traStartDate>2018-03-05</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000172204</trprId>
+			<yardMan>10</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>경상남도 진주시 촉석로 203 5/6층 뉴영남요리제과제빵아카데미</address>
+			<contents />
+			<courseMan>1225850</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200400731</instCd>
+			<ncsCd>13010101</ncsCd>
+			<realMan>1225850</realMan>
+			<regCourseMan>5</regCourseMan>
+			<subTitle>뉴영남요리제과제빵아카데미</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000183601&amp;tracseTme=1&amp;trainstCstmrId=500020047223
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>055-747-5000</telNo>
+			<title>(이론+실기) 한식조리기능사 자격취득</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000183601&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-06-08</traEndDate>
+			<traStartDate>2018-03-21</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000183601</trprId>
+			<yardMan>10</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>경상남도 진주시 촉석로 203 5/6층 뉴영남요리제과제빵아카데미</address>
+			<contents />
+			<courseMan>1225850</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200400731</instCd>
+			<ncsCd>13010101</ncsCd>
+			<realMan>1225850</realMan>
+			<regCourseMan>5</regCourseMan>
+			<subTitle>뉴영남요리제과제빵아카데미</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000183601&amp;tracseTme=2&amp;trainstCstmrId=500020047223
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>055-747-5000</telNo>
+			<title>(이론+실기) 한식조리기능사 자격취득</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000183601&amp;tracseTme=2
+			</titleLink>
+			<traEndDate>2018-09-05</traEndDate>
+			<traStartDate>2018-06-20</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>2</trprDegr>
+			<trprId>AIG20170000183601</trprId>
+			<yardMan>10</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>경상남도 진주시 촉석로 203 5/6층 뉴영남요리제과제빵아카데미</address>
+			<contents />
+			<courseMan>1225850</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200400731</instCd>
+			<ncsCd>13010101</ncsCd>
+			<realMan>1225850</realMan>
+			<regCourseMan>0</regCourseMan>
+			<subTitle>뉴영남요리제과제빵아카데미</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000183601&amp;tracseTme=3&amp;trainstCstmrId=500020047223
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>055-747-5000</telNo>
+			<title>(이론+실기) 한식조리기능사 자격취득</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000183601&amp;tracseTme=3
+			</titleLink>
+			<traEndDate>2018-11-09</traEndDate>
+			<traStartDate>2018-08-21</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>3</trprDegr>
+			<trprId>AIG20170000183601</trprId>
+			<yardMan>10</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>인천 남동구 간석4동 239-5</address>
+			<contents />
+			<courseMan>1188010</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>199800060</instCd>
+			<ncsCd>13010102</ncsCd>
+			<realMan>1188010</realMan>
+			<regCourseMan>10</regCourseMan>
+			<subTitle>국제요리학원</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000180145&amp;tracseTme=1&amp;trainstCstmrId=500020015903
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>032-428-8447</telNo>
+			<title>(이론+실기)양식조리기능사 취득</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000180145&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-06-07</traEndDate>
+			<traStartDate>2018-03-22</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000180145</trprId>
+			<yardMan>16</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>인천 남동구 간석4동 239-5</address>
+			<contents />
+			<courseMan>1188010</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>199800060</instCd>
+			<ncsCd>13010102</ncsCd>
+			<realMan>1188010</realMan>
+			<regCourseMan>10</regCourseMan>
+			<subTitle>국제요리학원</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000180145&amp;tracseTme=2&amp;trainstCstmrId=500020015903
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>032-428-8447</telNo>
+			<title>(이론+실기)양식조리기능사 취득</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000180145&amp;tracseTme=2
+			</titleLink>
+			<traEndDate>2018-08-30</traEndDate>
+			<traStartDate>2018-06-14</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>2</trprDegr>
+			<trprId>AIG20170000180145</trprId>
+			<yardMan>16</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>인천 남동구 간석4동 239-5</address>
+			<contents />
+			<courseMan>1490690</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>199800060</instCd>
+			<ncsCd>13010101</ncsCd>
+			<realMan>1490690</realMan>
+			<regCourseMan>15</regCourseMan>
+			<subTitle>국제요리학원</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000179454&amp;tracseTme=1&amp;trainstCstmrId=500020015903
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>032-428-8447</telNo>
+			<title>(이론+실기)한식조리기능사 취득</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000179454&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-06-01</traEndDate>
+			<traStartDate>2018-03-22</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000179454</trprId>
+			<yardMan>16</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>인천 남동구 간석4동 239-5</address>
+			<contents />
+			<courseMan>1490690</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>199800060</instCd>
+			<ncsCd>13010101</ncsCd>
+			<realMan>1490690</realMan>
+			<regCourseMan>7</regCourseMan>
+			<subTitle>국제요리학원</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000179454&amp;tracseTme=2&amp;trainstCstmrId=500020015903
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>032-428-8447</telNo>
+			<title>(이론+실기)한식조리기능사 취득</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000179454&amp;tracseTme=2
+			</titleLink>
+			<traEndDate>2018-08-21</traEndDate>
+			<traStartDate>2018-06-07</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>2</trprDegr>
+			<trprId>AIG20170000179454</trprId>
+			<yardMan>16</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>인천 남동구 간석4동 239-5</address>
+			<contents />
+			<courseMan>1490690</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>199800060</instCd>
+			<ncsCd>13010101</ncsCd>
+			<realMan>1490690</realMan>
+			<regCourseMan>0</regCourseMan>
+			<subTitle>국제요리학원</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000179454&amp;tracseTme=3&amp;trainstCstmrId=500020015903
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>032-428-8447</telNo>
+			<title>(이론+실기)한식조리기능사 취득</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000179454&amp;tracseTme=3
+			</titleLink>
+			<traEndDate>2018-11-09</traEndDate>
+			<traStartDate>2018-08-27</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>3</trprDegr>
+			<trprId>AIG20170000179454</trprId>
+			<yardMan>16</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>인천광역시 계양구 계양대로 188 3층 상록호텔조리직업전문학교</address>
+			<contents />
+			<courseMan>9021290</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200902036</instCd>
+			<ncsCd>21020102</ncsCd>
+			<realMan>9021290</realMan>
+			<regCourseMan>29</regCourseMan>
+			<subTitle>(주)상록호텔조리직업전문학교</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000171103&amp;tracseTme=1&amp;trainstCstmrId=500020033059
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>032-544-9600</telNo>
+			<title>(일반고 특화) 제과 및 제빵기능사 취득 양성과정</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000171103&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2018-12-31</traEndDate>
+			<traStartDate>2018-03-06</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000171103</trprId>
+			<yardMan>30</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>경기도 수원시 장안구 정조로 940-1 (영화동, 연세직업전문학교)</address>
+			<contents />
+			<courseMan>9207800</courseMan>
+			<grade />
+			<imgGubun>C1_02</imgGubun>
+			<instCd>200200439</instCd>
+			<ncsCd>20010301</ncsCd>
+			<realMan>9207800</realMan>
+			<regCourseMan>30</regCourseMan>
+			<subTitle>연세직업전문학교</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000171385&amp;tracseTme=1&amp;trainstCstmrId=500020053631
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>031-256-2662</telNo>
+			<title>(일반고 특화) IT시스템 DB운영 관리자 양성</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system3.gif"
+				alt="국가기간전략훈련" title="국가기간전략훈련"&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000171385&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2019-01-18</traEndDate>
+			<traStartDate>2018-03-02</traStartDate>
+			<trainTarget>실업자(국기)</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000171385</trprId>
+			<yardMan>30</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>경기도 수원시 장안구 정조로 940-1 (영화동, 연세직업전문학교)</address>
+			<contents />
+			<courseMan>9203600</courseMan>
+			<grade />
+			<imgGubun>C1_02</imgGubun>
+			<instCd>200200439</instCd>
+			<ncsCd>20010207</ncsCd>
+			<realMan>9203600</realMan>
+			<regCourseMan>25</regCourseMan>
+			<subTitle>연세직업전문학교</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000171411&amp;tracseTme=1&amp;trainstCstmrId=500020053631
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>031-256-2662</telNo>
+			<title>(일반고 특화) UI/UX 디자이너 양성</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system3.gif"
+				alt="국가기간전략훈련" title="국가기간전략훈련"&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000171411&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2019-01-18</traEndDate>
+			<traStartDate>2018-03-02</traStartDate>
+			<trainTarget>실업자(국기)</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000171411</trprId>
+			<yardMan>30</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>충청남도 천안시 서북구 충무로 215 (쌍용동 진솔빌딩 ) 진솔빌딩 4층</address>
+			<contents />
+			<courseMan>4583350</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>200601730</instCd>
+			<ncsCd>06020403</ncsCd>
+			<realMan>4583350</realMan>
+			<regCourseMan>10</regCourseMan>
+			<subTitle>자은간호학원</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000170703&amp;tracseTme=1&amp;trainstCstmrId=500020027944
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>041-577-6388</telNo>
+			<title>(일반고 특화) 간호조무사 국가자격취득과정</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000170703&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2019-02-14</traEndDate>
+			<traStartDate>2018-03-26</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000170703</trprId>
+			<yardMan>30</yardMan>
+		</scn_list>
+		<scn_list>
+			<address>서울특별시 노원구 동일로 1372 (상계동 동보빌딩) 5층</address>
+			<contents />
+			<courseMan>4713790</courseMan>
+			<grade />
+			<imgGubun>C1_01</imgGubun>
+			<instCd>201402196</instCd>
+			<ncsCd>06020402</ncsCd>
+			<realMan>4713790</realMan>
+			<regCourseMan>27</regCourseMan>
+			<subTitle>스타메디간호학원</subTitle>
+			<subTitleLink>http://hrd.go.kr/hrdp/co/pcoco/PCOCO0100P.do?tracseId=AIG20170000171563&amp;tracseTme=1&amp;trainstCstmrId=500020060479
+			</subTitleLink>
+			<superViser>고용노동부</superViser>
+			<telNo>02-2038-3600</telNo>
+			<title>(일반고 특화) 간호조무사 자격증 과정</title>
+			<titleIcon>&lt;img src="www.hrd.go.kr/images/ico_system2.gif"
+				alt="내일배움카드제(실업자)" title="내일배움카드제(실업자)" /&gt;</titleIcon>
+			<titleLink>http://hrd.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20170000171563&amp;tracseTme=1
+			</titleLink>
+			<traEndDate>2019-01-30</traEndDate>
+			<traStartDate>2018-03-06</traStartDate>
+			<trainTarget>실업자</trainTarget>
+			<trprDegr>1</trprDegr>
+			<trprId>AIG20170000171563</trprId>
+			<yardMan>36</yardMan>
+		</scn_list>
+	</srchList>
+</HRDNet>

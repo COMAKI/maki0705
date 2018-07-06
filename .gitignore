@@ -6,3 +6,4 @@ build/
 *.iml
 *.log
 src/dbprop.txt
+/bin/

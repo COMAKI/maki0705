@@ -22,6 +22,15 @@ public class Sql {
 	"SELECT * FROM T_PRODUCT WHERE ID=?";
 	public static String selectallProduct = 
 	"SELECT * FROM T_PRODUCT";	
+	
+	public static String insertHrd = 
+	"INSERT INTO T_HRD VALUES"
+	+ "(?,?,?,?,?,?,?,?,?,?,"
+	+ "?,?,?,?,?,?,?,?,?,?)";
+	public static String selectHrd = 
+	"SELECT * FROM T_HRD WHERE TRPR_ID=? and TRPR_DEGR=?";
+	public static String selectallHrd = 
+	"SELECT * FROM T_HRD";			
 }
 
 
